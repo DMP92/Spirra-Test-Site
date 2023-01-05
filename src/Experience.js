@@ -63,7 +63,6 @@ export default function Experience()
                 
             </Float>
         </PresentationControls>
-        />
         
         <ContactShadows 
             position-y={ - 1.4 }
